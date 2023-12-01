@@ -1,0 +1,65 @@
+
+
+
+html {
+    background-color: rgb(1, 100, 1);
+}
+
+
+table {
+    background-color:lightgreen;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 600px;
+    margin: auto; 
+}
+
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+
+ol{
+    text-align: center;
+}
+
+img {
+  
+    border: 3px solid blue;
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    display: block;
+    margin: auto;
+}
+
+
+
+caption {
+    color: white;
+ margin-left: -150px;
+ margin-bottom: 25px; 
+ font-size: 30px;
+}
+
+
+
+footer {
+    text-align: center;
+    color: white;
+}  
+
